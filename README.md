@@ -24,4 +24,4 @@ Sensor → Microcontroller → Signal Processing → Threshold Detection → Ala
 
   ## 📄 Project Presentation
 
-https://github.com/YOUR-USERNAME/SeaQuake-Alarm-Coastal-Safety/raw/refs/heads/main/SEAQUAKE%20ALARM%20.pdf
+https://github.com/Chparameswari-git/SeaQuake-Alarm/blob/main/SEAQUAKE_ALARM.pdf
