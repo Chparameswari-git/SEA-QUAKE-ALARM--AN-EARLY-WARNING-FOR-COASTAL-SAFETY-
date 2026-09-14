@@ -23,5 +23,5 @@ Sensor → Microcontroller → Signal Processing → Threshold Detection → Ala
 - Disaster Early Warning System
 
   ## 📄 Project Presentation
-  📄 [View Project PPT/PDF](https://github.com/Chparameswari-git/SEA-QUAKE-ALARM--AN-EARLY-WARNING-FOR-COASTAL-SAFETY-/blob/main/SEAQUAKE%20ALARM.pdf)
+ [View / Download SEAQUAKE ALARM PDF](./SEAQUAKE%20ALARM%20.pdf)
 
