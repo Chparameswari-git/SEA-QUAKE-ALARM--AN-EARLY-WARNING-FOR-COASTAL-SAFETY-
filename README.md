@@ -23,5 +23,5 @@ Sensor → Microcontroller → Signal Processing → Threshold Detection → Ala
 - Disaster Early Warning System
 
   ## 📄 Project Presentation
-   [View / Download SEAQUAKE ALARM PDF](./SEAQUAKE%20ALARM%20.pdf)
+   [View / Download SEAQUAKE ALARM PDF](./SEAQUAKE%20ALARM%20.pdf) 
 
